@@ -10,7 +10,7 @@ export default function Layout({ children }) {
               <span>Bara adda</span>
               <span>Marmelad</span>
             </h1>
-            <h2>Spread The Joy...</h2>
+            <h2>he Joy...</h2>
           </a>
         </Link>
       </header>
